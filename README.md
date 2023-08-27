@@ -16,3 +16,9 @@ Right rotate the array by no.of speciifed positions
 Left rotate the array by no.of specified positions
 
 Check whether given array is sorted or not
+
+Find out Missing Number in an Array
+
+Find the number which occured one's in an array
+
+Max length sub array with given sum
